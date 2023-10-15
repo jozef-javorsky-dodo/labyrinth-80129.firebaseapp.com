@@ -1,0 +1,10 @@
+#html-body-main-table {
+    margin: 7mm 0 5mm 2cm !important;
+    border: 1mm solid rgb(0, 0, 0) !important;
+    border-radius: 3mm;
+}
+
+#html-body-main-table,
+.TDCell {
+    border-spacing: 1mm !important;
+}
